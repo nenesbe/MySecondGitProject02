@@ -18,6 +18,7 @@ namespace MySecondGitProject
             Console.WriteLine("4");
             Console.WriteLine("5");
             Console.WriteLine("HELP!");
+            Console.WriteLine("Imma lose it...");
 
         }
     }
