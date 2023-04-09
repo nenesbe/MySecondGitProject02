@@ -10,6 +10,7 @@ namespace MySecondGitProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enes");
         }
     }
 }
