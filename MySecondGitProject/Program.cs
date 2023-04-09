@@ -10,7 +10,9 @@ namespace MySecondGitProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enes");
+            Console.WriteLine("Selamlar");
+            Console.WriteLine("Nasılsınız");
+
         }
     }
 }
