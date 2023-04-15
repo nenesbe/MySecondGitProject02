@@ -12,11 +12,11 @@ namespace MySecondGitProject
         {
             Console.WriteLine("Selamlar");
             Console.WriteLine("Nasılsınız");
-            Console.WriteLine("1");
-            Console.WriteLine("2");
-            Console.WriteLine("3");
-            Console.WriteLine("4");
-            Console.WriteLine("5");
+            Console.WriteLine(":)");
+            Console.WriteLine(":D");
+            Console.WriteLine(":(");
+            Console.WriteLine(":/");
+            Console.WriteLine("xD");
             Console.WriteLine("Astronomy");
             Console.WriteLine("Godzilla");
             Console.WriteLine("Fire of Unknown Origin");
