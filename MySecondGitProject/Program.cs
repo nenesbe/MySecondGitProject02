@@ -17,11 +17,11 @@ namespace MySecondGitProject
             Console.WriteLine("3");
             Console.WriteLine("4");
             Console.WriteLine("5");
-            Console.WriteLine("HELP!");
-            Console.WriteLine("Imma lose it...");
-            Console.WriteLine("Eins");
-            Console.WriteLine("Zwei");
-            Console.WriteLine("Drei");
+            Console.WriteLine("Astronomy");
+            Console.WriteLine("Godzilla");
+            Console.WriteLine("Fire of Unknown Origin");
+            Console.WriteLine("Burnin' For You");
+            Console.WriteLine("(Don't Fear) The Reaper");
 
         }
     }
